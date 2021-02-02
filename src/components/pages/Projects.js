@@ -27,7 +27,7 @@ const Projects = () => {
 					<Card style={{ width: '18rem' }}>
   						<Card.Img className="cards-item-img" variant="top" src={reactImage} width="200px" height="150px"  />
   							<Card.Body>
-								<Card.Link href="https://github.com/lojuje/website/tree/source-code" target="_blank" rel="noopener noreferrer">React Website</Card.Link>
+								<Card.Link href="https://github.com/lojuje/react-website" target="_blank" rel="noopener noreferrer">React Website</Card.Link>
     							<Card.Text>Version 1. A simple React based website where I could display info about me.</Card.Text>
   							</Card.Body>
 					</Card>
